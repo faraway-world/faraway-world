@@ -32,3 +32,6 @@
 [![](https://visitcount.itsvg.in/api?id=faraway-world&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### My GitHub Contribution Snake 🐍
+![GitHub Snake](https://raw.githubusercontent.com/faraway-world/output/github-snake.svg)
