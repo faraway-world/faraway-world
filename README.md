@@ -34,4 +34,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### My GitHub Contribution Snake 🐍
-![GitHub Snake](https://raw.githubusercontent.com/faraway-world/output/main/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/faraway-world/main/github-snake.svg)
