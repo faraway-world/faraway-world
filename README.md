@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Bloom
-# 🚀 Bloom | AI Enthusiast | Aspiring Researcher  
+
+# 👾 Bloom | AI Enthusiast | Aspiring Researcher  
 
 👋 Hi, I'm Bloom—a driven learner with a deep passion for AI and its future potential. Currently a Class 12 student, exploring the foundations of programming with Python and steadily advancing toward cutting-edge AI research.  
 
