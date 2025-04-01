@@ -3,12 +3,12 @@
 
 👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience
 
-###💡 Current Interests
+### 💡 Current Interests
 - Coding & Programming (I love the feeling of making things work)
 - UI/UX Exploration (Tinkering with apps, improving usability, and making them look better)
 - Automation & Scripting (Making things run smoothly and efficiently)
 
-###🔬 Future Goals & Aspirations
+### 🔬 Future Goals & Aspirations
 - Dive into Machine Learning & AI Research
 - Explore Brain-Computer Interfaces & Neuroscience
 - Contribute to AI Ethics & Theoretical AI
