@@ -1,22 +1,18 @@
 
 # 👾 Bloom | AI Enthusiast | Aspiring Researcher  
 
-👋 Hi, I'm Bloom—a driven learner with a deep passion for AI and its future potential. Currently exploring the foundations of programming with Python and steadily advancing toward cutting-edge AI research.  
+👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience
 
-### 🔬 **Interests**  
-- Machine Learning & Deep Learning  
-- Brain-Computer Interfaces & Neuroscience  
-- AI Ethics & Theoretical AI  
+###💡 Current Interests
+- Coding & Programming (I love the feeling of making things work)
+- UI/UX Exploration (Tinkering with apps, improving usability, and making them look better)
+- Automation & Scripting (Making things run smoothly and efficiently)
 
-### 📖 **Current Focus**  
-- Strengthening Python fundamentals  
-- Learning about AI models and their real-world applications  
-- Exploring mathematics behind ML & Neural Networks  
-
-### 🎯 **Future Goals**  
-- Pursue AI research & development  
-- Contribute to groundbreaking innovations in AI & UI  
-- Work towards integrating AI with human intelligence for a better future  
+###🔬 Future Goals & Aspirations
+- Dive into Machine Learning & AI Research
+- Explore Brain-Computer Interfaces & Neuroscience
+- Contribute to AI Ethics & Theoretical AI
+- Develop innovations that integrate AI with human intelligence
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_farawayworld_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailsofnityaprakash@gmail.com) 
