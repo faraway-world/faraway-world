@@ -1,5 +1,25 @@
 ## Hi there 👋 I'm Bloom
+# 🚀 Bloom | AI Enthusiast | Aspiring Researcher  
 
+👋 Hi, I'm Bloom—a driven learner with a deep passion for AI and its future potential. Currently a Class 12 student, exploring the foundations of programming with Python and steadily advancing toward cutting-edge AI research.  
+
+### 🔬 **Interests**  
+- Machine Learning & Deep Learning  
+- Brain-Computer Interfaces & Neuroscience  
+- AI Ethics & Theoretical AI  
+
+### 📖 **Current Focus**  
+- Strengthening Python fundamentals  
+- Learning about AI models and their real-world applications  
+- Exploring mathematics behind ML & Neural Networks  
+
+### 🎯 **Future Goals**  
+- Pursue AI research & development  
+- Contribute to groundbreaking innovations in AI & UI  
+- Work towards integrating AI with human intelligence for a better future  
+
+📫 **Let’s Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_farawayworld_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailsofnityaprakash@gmail.com) 
