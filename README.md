@@ -1,5 +1,5 @@
 
-# 👾 Bloom | AI Enthusiast | Aspiring Researcher  
+# 👾 Bloom | Coding Enthusiast | Aspiring Researcher  
 
 👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience
 
