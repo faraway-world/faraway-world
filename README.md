@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://pin.it/4AoSdIpMX)">
 
 
 ### 💡 Current Interests
