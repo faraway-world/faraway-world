@@ -11,6 +11,8 @@
 - UI/UX Exploration
 - Automation & Scripting
 
+
+
 ### 🔬 Future Goals & Aspirations
 - Dive into Machine Learning & AI Research
 - Explore Brain-Computer Interfaces & Neuroscience
