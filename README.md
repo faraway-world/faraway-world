@@ -10,14 +10,7 @@
 - Coding & Programming
 - UI/UX Exploration
 - Automation & Scripting
-
-
-
-### 🔬 Future Goals & Aspirations
-- Dive into Machine Learning & AI Research
-- Explore Brain-Computer Interfaces & Neuroscience
-- Contribute to AI Ethics & Theoretical AI
-- Develop innovations that integrate AI with human intelligence
+- AI and UI
 
 ## 🌐 Socials:
 <p align="left">
