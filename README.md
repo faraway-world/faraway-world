@@ -27,7 +27,7 @@
 
 
 ## 📊 GitHub Stats:
-html<br/><p align="center"><br/>  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true&layout=compact" /><br/></p>
+<br/><p align="left"><br/>  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true&layout=compact" /><br/></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true)
