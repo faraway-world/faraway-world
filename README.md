@@ -3,12 +3,7 @@
 
 👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience
 
-<p align="center">
-  <img alt="Vinyl spinning with good vibes" src="https://64.media.tumblr.com/e5da5ca31ca2d1775c84b149e8543fb3/tumblr_oaku5s68Qn1qf4kz5o1_1280.gif" width="320"> 
-</p>
-<p align="center">
-  <em>Now Playing: <strong>Vaporwave</strong> WM-D6C 🎶</em>
-</p>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 
 ### 💡 Current Interests
 - Coding & Programming
