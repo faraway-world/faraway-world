@@ -22,7 +22,10 @@
 
 
 ## 📊 GitHub Stats:
-<br/><p align="center"><br/>  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" /><br/></p><p align="center"><br/>  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=dark&hide_border=true" /><br/></p><p align="center"><br/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true&layout=compact" /><br/></p>
+<br/><p align="center"><br/>  ![](https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true)
@@ -45,6 +48,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<br/><p align="center"><br/>  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" /><br/></p><p align="center"><br/>  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=dark&hide_border=true" /><br/></p><p align="center"><br/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true&layout=compact" /><br/></p>
