@@ -14,6 +14,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/_farawayworld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_farawayworld_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="_farawayworld_" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
