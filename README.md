@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://instagram.com/_farawayworld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_farawayworld_" height="30" width="40" /></a>
+<a href="https://instagram.com/_farawayworld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_farawayworld_" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/b-nityaprakash-20118b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="_farawayworld_" height="40" width="40" /></a>
 </p>
 
