@@ -9,7 +9,7 @@
 - Coding & Programming
 - UI/UX Exploration
 - Automation & Scripting
-- AI and UI
+- AI and UI(Uploaded Intelligence)
 
 ## 🌐 Socials:
 <p align="left">
