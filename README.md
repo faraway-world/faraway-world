@@ -22,7 +22,7 @@
 
 ### 💻 Tech Stack
   <a title="logo">
-    <img src="https://skillicons.dev/icons?i=py,mysql,bash,vscoode,cpp,kotlin,md,godot,rust&theme=light" alt="rust" height="40">
+    <img src="https://skillicons.dev/icons?i=py,mysql,bash,vscode,cpp,kotlin,md,godot,rust" alt="logo" height="40">
   </a>
 </p>
 
