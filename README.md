@@ -56,10 +56,9 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-<center>
-![](https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-</center>
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake-dark.svg" />
