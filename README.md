@@ -42,7 +42,7 @@
     <img src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4" alt="godot" width="40" height="40" /> 
   </a>
   <a href="https://rust-lang.org/" title="Rust logo">
-    <img src="https://skillicons.dev/icons?i=rust&theme=light" alt="rust" width="40" height="40">
+    <img src="https://skillicons.dev/icons?i=py,mysql,bash,kotlin,md,rust&theme=light" alt="rust" width="40" height="40">
     
   </a>
 </p>
