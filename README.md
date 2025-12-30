@@ -47,5 +47,5 @@
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/faraway-world?base=languages&base.repositories=0&base.metadata=0&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faraway-world&show_icons=true&locale=en&layout=compact&theme=date_night&hide_border=true" alt="faraway-world" />
 </p>
