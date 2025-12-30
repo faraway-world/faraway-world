@@ -54,7 +54,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
