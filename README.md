@@ -34,6 +34,12 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&layout=compact&theme=date_night&hide=swift,c%23&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
@@ -47,9 +53,3 @@
   </picture>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&layout=compact&theme=date_night&hide=swift,c%23&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
