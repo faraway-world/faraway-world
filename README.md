@@ -46,9 +46,6 @@
 </p>
 
 
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&layout=compact&theme=date_night&hide=swift,c%23&hide_border=true" alt="Top Langs" />
-  </a>
+  <img src="https://metrics.lecoq.io/faraway-world?base=languages&base.repositories=0&base.metadata=0&theme=tokyonight" alt="Languages" />
 </p>
