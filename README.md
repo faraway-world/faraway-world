@@ -56,17 +56,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" alt="Stats Card" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false />
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=faraway-world&icon=0&color=0" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=faraway-world&icon=0&color=0"/>
   </a>
 </p>
 
