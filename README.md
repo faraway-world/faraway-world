@@ -9,8 +9,8 @@
 - UI/UX Exploration
 - Automation & Scripting
 - AI and UI (Uploaded Intelligence)
-
-## 🌐 Socials
+---
+### 🌐 Socials
 <p align="left">
   <a href="https://instagram.com/_farawayworld_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
@@ -19,8 +19,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
-
-## 💻 Tech Stack
+---
+### 💻 Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
