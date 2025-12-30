@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" alt="Stats Card" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ### 🔝 Top Contributed Repo
