@@ -21,29 +21,8 @@
 </p>
 
 ### 💻 Tech Stack
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> 
-  </a>
-  <a href="https://kotlinlang.org/" title="Kotlin Logo">
-    <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" width="40" height="40">
-  </a> 
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4" alt="godot" width="40" height="40" /> 
-  </a>
-  <a href="https://rust-lang.org/" title="Rust logo">
-    <img src="https://skillicons.dev/icons?i=py,mysql,bash,kotlin,md,rust&theme=light" alt="rust" height="40">
-    
+  <a title="logo">
+    <img src="https://skillicons.dev/icons?i=py,mysql,bash,vscoode,cpp,kotlin,md,godot,rust&theme=light" alt="rust" height="40">
   </a>
 </p>
 
