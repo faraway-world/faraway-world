@@ -33,14 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&layout=compact&theme=date_night&hide=swift,c%23&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
-
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
@@ -53,3 +45,10 @@
   </picture>
 </p>
 
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&layout=compact&theme=date_night&hide=swift,c%23&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
