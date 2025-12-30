@@ -10,8 +10,6 @@
 - Automation & Scripting
 - AI and UI (Uploaded Intelligence)
 
----
-
 ## 🌐 Socials
 <p align="left">
   <a href="https://instagram.com/_farawayworld_" target="blank">
@@ -21,8 +19,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
