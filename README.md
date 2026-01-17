@@ -47,5 +47,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faraway-world&show_icons=true&locale=en&layout=compact&theme=date_night&hide_border=true" alt="faraway-world" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=faraway-world&show_icons=true&locale=en&layout=compact&theme=date_night&hide_border=true" alt="faraway-world" />
 </p>
