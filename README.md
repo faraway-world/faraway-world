@@ -50,5 +50,5 @@
 ### 🔝 Top Contributed Repo
 <p>
   <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night" />
+  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=&theme=date_night" />
 </p>
