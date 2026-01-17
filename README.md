@@ -35,22 +35,17 @@
 
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
-
-<p align="center">
-  <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&show_icons=true&locale=en&layout=compact&theme=date_night&hide_border=true" alt="faraway-world" />
-</p>
-
-<p align="center">
-  <picture>
+<p>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
-</p>
-<p>
+
+  <img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+
+  <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
+
   <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
   <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night" />
 </p>
