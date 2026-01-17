@@ -50,6 +50,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
 </p>
-<p align="center">
+<p>
   <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
+  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night" />
 </p>
