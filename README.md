@@ -49,6 +49,10 @@
 
 ### 🔝 Top Contributed Repo
 <p>
+<a href="https://github.com/faraway-world/yuki-client">
+  
   <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night" />
+<a href="https://github.com/faraway-world/MusicBridge">
+  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night&cache_seconds=1800" alt="MusicBridge Repo" />
+</a>
 </p>
