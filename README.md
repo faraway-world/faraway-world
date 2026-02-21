@@ -41,7 +41,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
-<p\>
+<p/>
 
 ### 🔝 Top Contributed Repo
 <p>
