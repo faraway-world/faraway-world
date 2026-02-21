@@ -1,7 +1,5 @@
 ## 👾 Bloom | Coding Enthusiast | Aspiring Researcher  
-
 👋 Hi, I'm Bloom—a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience.
-
 <img align="right" alt="Vinyl spinning with good vibes" src="https://64.media.tumblr.com/e5da5ca31ca2d1775c84b149e8543fb3/tumblr_oaku5s68Qn1qf4kz5o1_1280.gif" width="320"> 
 
 ### 💡 Current Interests
@@ -21,15 +19,12 @@
 </p>
 
 ### 💻 Tech Stack
-
 <a title="logo">
   <img src="https://skillicons.dev/icons?i=py,mysql,bash,vscode,cpp,kotlin,md,godot,rust" alt="logo" height="50">
 </a>
 
-
 ## 📊 GitHub Stats
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
@@ -38,14 +33,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
 </picture>
-
 </div>
 
 ### 🔝 Top Contributed Repo
-<p>
+<p align="center">
 <a href="https://github.com/faraway-world/yuki-client">
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
+</a>
 <a href="https://github.com/faraway-world/MusicBridge">
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night&cache_seconds=1800" alt="MusicBridge Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night" alt="MusicBridge Repo" />
 </a>
 </p>
