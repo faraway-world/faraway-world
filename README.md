@@ -20,21 +20,30 @@
   <img src="https://skillicons.dev/icons?i=py,mysql,bash,vscode,cpp,kotlin,md,godot,rust" alt="logo" height="50">
 </a>
 ## 📊 GitHub Stats
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faraway-world&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
 
-<img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-<img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
+  </picture>
+</p>
 ### 🔝 Top Contributed Repo
 <p>
 <a href="https://github.com/faraway-world/yuki-client">
