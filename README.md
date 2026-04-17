@@ -35,4 +35,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
 </p>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=tokyo-night)
+## Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Izz4c&theme=tokyo-night)
