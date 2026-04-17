@@ -29,7 +29,7 @@
   <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=rogue)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=high-contrast)
 
 <p align="center">
   <picture>
