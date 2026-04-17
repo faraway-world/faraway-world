@@ -21,8 +21,6 @@
 </a>
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" />
@@ -36,12 +34,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
-</p>
-### 🔝 Top Contributed Repo
-<p>
-<a href="https://github.com/faraway-world/yuki-client">
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=yuki-client&theme=date_night" />
-<a href="https://github.com/faraway-world/MusicBridge">
-  <img src="https://my-readme-three.vercel.app/api/pin/?username=faraway-world&repo=MusicBridge&theme=date_night&cache_seconds=1800" alt="MusicBridge Repo" />
-</a>
 </p>
