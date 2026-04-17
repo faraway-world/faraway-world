@@ -7,7 +7,7 @@
 - Automation & Scripting
 - AI and UI (Uploaded Intelligence)
 ### 🌐 Socials
-<p>
+<p align="left">
   <a href="https://instagram.com/_farawayworld_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
