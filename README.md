@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
 </p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=tokyo-night)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake-dark.svg" />
@@ -35,5 +37,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/faraway-world/faraway-world/output/github-snake.svg" />
   </picture>
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=tokyo-night)
