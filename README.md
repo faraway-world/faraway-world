@@ -7,7 +7,7 @@
 - UI/UX Exploration
 - Automation & Scripting
 - AI and UI (Uploaded Intelligence)
-- 
+
 ### 🌐 Socials
 <p align="left">
   <a href="https://instagram.com/_farawayworld_" target="blank">
