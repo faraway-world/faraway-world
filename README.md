@@ -31,7 +31,7 @@
 
 ## Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=react")
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=react-dark")
 
 <p align="center">
   <picture>
