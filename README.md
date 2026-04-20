@@ -28,11 +28,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-readme-three.vercel.app/api?username=faraway-world&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=faraway-world&theme=date_night&hide_border=true" />
+  <img src="" alt="Contributor Stats" />
+  <img src="" />
 </p>
 <p align="center">
-  <img src="https://my-readme-three.vercel.app/api/top-langs?username=faraway-world&hide=javascript&layout=compact&theme=date_night" />
+  <img src="" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=high-contrast)
