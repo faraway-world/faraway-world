@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/b-nityaprakash-20118b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="60" width="60" />
+    <img src="https://img.icons8.com/?size=100&id=CqSHNNO0qG0w&format=png&color=000000" height="40" width="40" />
   </a>
 </p>
 
