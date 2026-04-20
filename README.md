@@ -9,7 +9,18 @@
 - AI and UI (Uploaded Intelligence)
 
 ### 🌐 Socials
-<div align="left"><a href="https://instagram.com/_farawayworld_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a><a href="https://www.linkedin.com/in/b-nityaprakash-20118b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.icons8.com/?size=100&id=fXR756Rx92Jx&format=png&color=000000" height="40" width="40" /></a></div>
+<p align="left">
+
+  <a href="https://instagram.com/_farawayworld_" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/b-nityaprakash-20118b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=fXR756Rx92Jx&format=png&color=000000" height="40" width="40" />
+  </a>
+</p>
 
 ### 💻 Tech Stack
 
