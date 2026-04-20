@@ -14,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/b-nityaprakash-20118b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAXVBMVEUueLb////m7vUAZq0Sb7KyyuENbLHi6/Q2fLj3+fwbcbM9f7mTstOFqc6ivtskdLTY4+/u9PnD1ObL2ul3ocurw91nl8Vbj8FunciYt9a6zuNRir9Ag7uJrtEAY6xFJFtFAAACPklEQVR4nO2a6W6rMBBGsdkNybCGhJC+/2NeklsoHrq4klNb7Xf+RMrE4ggP47FJEAAAAAAAAAAAAAAAAMCfhCjIskCRa48NlHRjJWXVn0JvtNRQiVeawhOr6JyLFTkp1z53aNg4CZEWroXuJJXQiBPXRnNCHQTDg7SihktdPMiqlEs17qWKnEu17qfPS6nMx+mjkUvd3Eu9UxJcK82ErHgePSieu2Umcy30QA31xoncP3sP1LVdnHoP1phXKBnitqray+RDPq1QRFlAXrXD4E8xJ5+amT+eloQq0qAPAsuKSElwKvt4HOO+7KYkeoqXupUa5+UqdNC+PzxKPQVDU78tAbksp2c8s2EtNMalVkV64LHNSc6t4MRTZF9KsmusUnqnVc2FjPqd0v12Haw3O+ZSFLCGYsV6Z2EulX3kZH8HZCyl9un0xmA3242lLp84CWn3VplK1bttj4bdzt5U6gsqqx2rJSlxsplVtqRGm2XBlpR0KVWnaSrf+T6/Wpy/70k13bXIimu3O0ASorP4/H1HSg7h/xaKwm5XIY5upPLNKW202+7HbqS6bY/Ct/uicZJTlTaOuk/DPyVV6s3cxAbaPIUwl5r0+SHWNUgXUvmLPjBhx221C6kq1AdGRyZt8bTNWKph60hUeiDF34+omwdSPZdi5dOJ1JFt7yAFKUhBClKQghSkIAUpSEEKUuZSLPCTUklbyw31em3FAvylkOq0uLT6v8dMxyCwUHz1AwAAAAAAAAAAAAAAAPjl/AMzFChApXK/KAAAAABJRU5ErkJggg==" height="40" width="40" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" height="40" width="40" />
   </a>
 </p>
 
