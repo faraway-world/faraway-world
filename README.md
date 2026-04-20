@@ -27,13 +27,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="" alt="Contributor Stats" />
-  <img src="" />
-</p>
-<p align="center">
-  <img src="" />
-</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraway-world&theme=high-contrast)
 
