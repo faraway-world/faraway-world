@@ -29,6 +29,8 @@
 
 
 ![Activity Graph](https://github-stats-extended.vercel.app/api?username=faraway-world)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world)](https://github.com/stats-organization/github-stats-extended)
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=faraway-world)](https://wakatime.com/@alan)
 
 <p align="center">
   <picture>
