@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" alt="Activity Graph" height="180" />
+    <img src="https://github-stats-extended.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" alt="Activity Graph" height="300" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true" alt="Top Langs" height="180" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true" alt="Top Langs" height="300" />
   </a>
 </p>
 
