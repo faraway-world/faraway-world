@@ -1,6 +1,5 @@
 ## 👾 Hikari | Coding Enthusiast | Aspiring Researcher  
-<img align="right" alt="Vinyl spinning with good vibes" src="https://64.media.tumblr.com/e5da5ca31ca2d1775c84b149e8543fb3/tumblr_oaku5s68Qn1qf4kz5o1_1280.gif" width="260"> 
-
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N2emRxZ2Y3YndsZHc5ZWdmam82cGhxOGxhdTFsYzY3ZjB0bDI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCBuqA0glF9gFxWIfZ/giphy.gif" width="350">
 👋 Hi, I'm Nityaprakash — a passionate coder who loves talking to computers through code and tweaking apps to improve usability and design. I enjoy fidgeting with software, making things look better, and enhancing user experience.
 
 ### 💡 Current Interests
