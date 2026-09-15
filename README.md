@@ -27,10 +27,14 @@
 
 ## 📊 GitHub Stats
 
-
-![Activity Graph](https://github-stats-extended.vercel.app/api?username=faraway-world)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world)](https://github.com/stats-organization/github-stats-extended)
-[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=faraway-world)](https://wakatime.com/@alan)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=faraway-world&theme=dark" alt="Activity Graph" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world&theme=dark" alt="Top Langs" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
