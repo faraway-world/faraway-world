@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 
-![Activity Graph](https://github-stats-extended.vercel.app/graph?username=faraway-world&theme=high-contrast)
+![Activity Graph](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
 
 <p align="center">
   <picture>
