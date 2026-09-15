@@ -29,10 +29,8 @@
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=faraway-world&theme=dark" alt="Activity Graph" />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world&theme=dark" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api?username=faraway-world&theme=dark&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faraway-world&theme=dark&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
