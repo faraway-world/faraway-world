@@ -10,6 +10,8 @@
 
 ### 🌐 Links
 <p align="left">
+  <a href="https://instagram.com/_farawayworld_" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="32" alt="Instagram"/>
   <a href="https://www.linkedin.com/in/b-nityaprakash-20118b381" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=fXR756Rx92Jx&format=png&color=000000" height="32" width="32" alt="LinkedIn" />
   </a>
