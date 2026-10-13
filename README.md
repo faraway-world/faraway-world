@@ -1,4 +1,4 @@
-## 👾 Hikari | Aspiring Researcher & Systems Enthusiast
+## 👾 Hikari | Applied Systems Engineer | Native Tooling & Local-First AI
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N2emRxZ2Y3YndsZHc5ZWdmam82cGhxOGxhdTFsYzY3ZjB0bDI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCBuqA0glF9gFxWIfZ/giphy.gif" width="320">
 
 👋 Hi, I'm Nityaprakash — focused on building local AI runtimes, desktop integration tooling, and interactive software.
