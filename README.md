@@ -3,10 +3,10 @@
 
 👋 Hi, I'm Nityaprakash — focused on building local AI runtimes, desktop integration tooling, and interactive software.
 
-### 💡 Current Focus
-- Autonomous agent architectures & local LLMs (`yuki-client`)
+### 💡 Current Focus/Interests
+- Autonomous agent architectures, local LLMs (`yuki-client`) & UI(Uploaded Intelligence)
 - Android-to-desktop background sync & system bridges
-- Low-level tooling, automation, and UI exploration
+- Low-level tooling, automation, and UI/UX exploration
 
 ### 🌐 Links
 <p align="left">
