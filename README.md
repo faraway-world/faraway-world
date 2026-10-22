@@ -4,7 +4,7 @@
 👋 Hi, I'm Nityaprakash — focused on building local AI runtimes, desktop integration tooling, and interactive software.
 
 ### 💡 Current Focus/Interests
-- Autonomous agent architectures, local LLMs ([`yuki-client`](https://github.com/faraway-world/yuki-client))
+- Autonomous agent architectures, local LLM clients ([`yuki-client`](https://github.com/faraway-world/yuki-client))
 - NCM, diffusion models and llm architectures (rkvw, bitnet)
 - Android-to-desktop background sync & system bridges
 - Low-level tooling, automation, and UI/UX exploration
